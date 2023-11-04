@@ -1,0 +1,1 @@
+Insight 1: Several passengers in the dataset have larger family sizes, with a FamilySize of 4 or more. For example, passenger '8' has a FamilySize of 4, and passenger '863' has a FamilySize of 10. These family sizes are larger than the average family size.

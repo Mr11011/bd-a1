@@ -1,0 +1,92 @@
+PassengerId,Survived,Pclass,Name,Ticket,Cabin,Sex_female,Sex_male,Embarked_C,Embarked_Q,Embarked_S,Fare_scaled,FamilySize,AgeGroup
+8,0,3,"Palsson, Master. Gosta Leonard",349909,B96 B98,0,1,0,0,1,0.6544175848251046,4,0-18
+14,0,3,"Andersson, Mr. Anders Johan",347082,B96 B98,0,1,0,0,1,0.9711463803276462,6,35-50
+17,0,3,"Rice, Master. Eugene",382652,B96 B98,0,1,0,1,0,0.904384918530542,5,0-18
+25,0,3,"Palsson, Miss. Torborg Danira",349909,B96 B98,1,0,0,0,1,0.6544175848251046,4,0-18
+26,1,3,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",347077,B96 B98,1,0,0,0,1,0.9746397126309831,6,35-50
+28,0,1,"Fortune, Mr. Charles Alexander",19950,C23 C25 C27,0,1,0,0,1,8.166634629134164,5,18-35
+44,1,2,"Laroche, Miss. Simonne Marie Anne Andree",SC/Paris 2123,B96 B98,1,0,1,0,0,1.2911107778391453,3,0-18
+51,0,3,"Panula, Master. Juha Niilo",3101295,B96 B98,0,1,0,0,1,1.2323700070105024,5,0-18
+59,1,2,"West, Miss. Constance Mirium",C.A. 34651,B96 B98,1,0,0,0,1,0.8616886348230914,3,0-18
+60,0,3,"Goodwin, Master. William Frederick",CA 2144,B96 B98,0,1,0,0,1,1.4563314224577653,7,0-18
+64,0,3,"Skoog, Master. Harald",347088,B96 B98,0,1,0,0,1,0.8663464112275405,5,0-18
+69,1,3,"Andersson, Miss. Erna Alexandra",3101281,B96 B98,1,0,0,0,1,0.2460858533683963,6,0-18
+72,0,3,"Goodwin, Miss. Lillian Amy",CA 2144,B96 B98,1,0,0,0,1,1.4563314224577653,7,0-18
+86,1,3,"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",3101278,B96 B98,1,0,0,0,1,0.4921717067367927,3,18-35
+87,0,3,"Ford, Mr. William Neal",W./C. 6608,B96 B98,0,1,0,0,1,1.067407092686262,4,0-18
+89,1,1,"Fortune, Miss. Mabel Helen",19950,C23 C25 C27,1,0,0,0,1,8.166634629134164,5,18-35
+94,0,3,"Dean, Mr. Bertram Frank",C.A. 2315,B96 B98,0,1,0,0,1,0.6388916634769407,3,18-35
+120,0,3,"Andersson, Miss. Ellis Anna Maria",347082,B96 B98,1,0,0,0,1,0.9711463803276462,6,0-18
+148,0,3,"Ford, Miss. Robina Maggie ""Ruby""",W./C. 6608,B96 B98,1,0,0,0,1,1.067407092686262,4,0-18
+160,0,3,"Sage, Master. Thomas Henry",CA. 2343,B96 B98,0,1,0,0,1,2.159655659529586,10,18-35
+165,0,3,"Panula, Master. Eino Viljami",3101295,B96 B98,0,1,0,0,1,1.2323700070105024,5,0-18
+168,0,3,"Skoog, Mrs. William (Anna Bernhardina Karlsson)",347088,B96 B98,1,0,0,0,1,0.8663464112275405,5,35-50
+172,0,3,"Rice, Master. Arthur",382652,B96 B98,0,1,0,1,0,0.904384918530542,5,0-18
+177,0,3,"Lefebre, Master. Henry Forbes",4133,B96 B98,0,1,0,0,1,0.7907879623945665,4,18-35
+181,0,3,"Sage, Miss. Constance Gladys",CA. 2343,B96 B98,1,0,0,0,1,2.159655659529586,10,18-35
+183,0,3,"Asplund, Master. Clarence Gustaf Hugo",347077,B96 B98,0,1,0,0,1,0.9746397126309831,6,0-18
+184,1,2,"Becker, Master. Richard F",230136,F4,0,1,0,0,1,1.2110218651567772,3,0-18
+202,0,3,"Sage, Mr. Frederick",CA. 2343,B96 B98,0,1,0,0,1,2.159655659529586,10,18-35
+230,0,3,"Lefebre, Miss. Mathilde",4133,B96 B98,1,0,0,0,1,0.7907879623945665,4,18-35
+234,1,3,"Asplund, Miss. Lillian Gertrud",347077,B96 B98,1,0,0,0,1,0.9746397126309831,6,0-18
+262,1,3,"Asplund, Master. Edvin Rojj Felix",347077,B96 B98,0,1,0,0,1,0.9746397126309831,6,0-18
+267,0,3,"Panula, Mr. Ernesti Arvid",3101295,B96 B98,0,1,0,0,1,1.2323700070105024,5,0-18
+279,0,3,"Rice, Master. Eric",382652,B96 B98,0,1,0,1,0,0.904384918530542,5,0-18
+298,0,1,"Allison, Miss. Helen Loraine",113781,C22 C26,1,0,0,0,1,4.705906760628451,3,0-18
+306,1,1,"Allison, Master. Hudson Trevor",113781,C22 C26,0,1,0,0,1,4.705906760628451,3,0-18
+312,1,1,"Ryerson, Miss. Emily Borie",PC 17608,B57 B59 B63 B66,1,0,1,0,0,8.147227227448958,4,0-18
+325,0,3,"Sage, Mr. George John Jr",CA. 2343,B96 B98,0,1,0,0,1,2.159655659529586,10,18-35
+342,1,1,"Fortune, Miss. Alice Elizabeth",19950,C23 C25 C27,1,0,0,0,1,8.166634629134164,5,18-35
+361,0,3,"Skoog, Mr. Wilhelm",347088,B96 B98,0,1,0,0,1,0.8663464112275405,5,35-50
+375,0,3,"Palsson, Miss. Stina Viola",349909,B96 B98,1,0,0,0,1,0.6544175848251046,4,0-18
+387,0,3,"Goodwin, Master. Sidney Leonard",CA 2144,B96 B98,0,1,0,0,1,1.4563314224577653,7,0-18
+391,1,1,"Carter, Mr. William Ernest",113760,B96 B98,0,1,0,0,1,3.726221123559314,3,35-50
+410,0,3,"Lefebre, Miss. Ida",4133,B96 B98,1,0,0,0,1,0.7907879623945665,4,18-35
+436,1,1,"Carter, Miss. Lucile Polk",113760,B96 B98,1,0,0,0,1,3.726221123559314,3,0-18
+437,0,3,"Ford, Miss. Doolina Margaret ""Daisy""",W./C. 6608,B96 B98,1,0,0,0,1,1.067407092686262,4,18-35
+438,1,2,"Richards, Mrs. Sidney (Emily Hocking)",29106,B96 B98,1,0,0,0,1,0.5822220505561428,5,18-35
+439,0,1,"Fortune, Mr. Mark",19950,C23 C25 C27,0,1,0,0,1,8.166634629134164,5,50+
+449,1,3,"Baclini, Miss. Marie Catherine",2666,B96 B98,1,0,1,0,0,0.5980057021986861,3,0-18
+451,0,2,"West, Mr. Edwy Arthur",C.A. 34651,B96 B98,0,1,0,0,1,0.8616886348230914,3,35-50
+470,1,3,"Baclini, Miss. Helene Barbara",2666,B96 B98,1,0,1,0,0,0.5980057021986861,3,0-18
+473,1,2,"West, Mrs. Edwy Arthur (Ada Mary Worth)",C.A. 34651,B96 B98,1,0,0,0,1,0.8616886348230914,3,18-35
+481,0,3,"Goodwin, Master. Harold Victor",CA 2144,B96 B98,0,1,0,0,1,1.4563314224577653,7,0-18
+486,0,3,"Lefebre, Miss. Jeannie",4133,B96 B98,1,0,0,0,1,0.7907879623945665,4,18-35
+499,0,1,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",113781,C22 C26,1,0,0,0,1,4.705906760628451,3,18-35
+530,0,2,"Hocking, Mr. Richard George",29104,B96 B98,0,1,0,0,1,0.3570961910077676,3,18-35
+542,0,3,"Andersson, Miss. Ingeborg Constanzia",347082,B96 B98,1,0,0,0,1,0.9711463803276462,6,0-18
+543,0,3,"Andersson, Miss. Sigrid Elisabeth",347082,B96 B98,1,0,0,0,1,0.9711463803276462,6,0-18
+568,0,3,"Palsson, Mrs. Nils (Alma Cornelia Berglund)",349909,B96 B98,1,0,0,0,1,0.6544175848251046,4,18-35
+601,1,2,"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",243847,B96 B98,1,0,0,0,1,0.8383997528008457,3,18-35
+609,1,2,"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",SC/Paris 2123,B96 B98,1,0,1,0,0,1.2911107778391453,3,18-35
+611,0,3,"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",347082,B96 B98,1,0,0,0,1,0.9711463803276462,6,35-50
+616,1,2,"Herman, Miss. Alice",220845,B96 B98,1,0,0,0,1,2.018369775261295,3,18-35
+619,1,2,"Becker, Miss. Marion Louise",230136,F4,1,0,0,0,1,1.2110218651567772,3,0-18
+635,0,3,"Skoog, Miss. Mabel",347088,B96 B98,1,0,0,0,1,0.8663464112275405,5,0-18
+639,0,3,"Panula, Mrs. Juha (Maria Emilia Ojala)",3101295,B96 B98,1,0,0,0,1,1.2323700070105024,5,35-50
+643,0,3,"Skoog, Miss. Margit Elizabeth",347088,B96 B98,1,0,0,0,1,0.8663464112275405,5,0-18
+645,1,3,"Baclini, Miss. Eugenie",2666,B96 B98,1,0,1,0,0,0.5980057021986861,3,0-18
+679,0,3,"Goodwin, Mrs. Frederick (Augusta Tyler)",CA 2144,B96 B98,1,0,0,0,1,1.4563314224577653,7,35-50
+684,0,3,"Goodwin, Mr. Charles Edward",CA 2144,B96 B98,0,1,0,0,1,1.4563314224577653,7,0-18
+686,0,2,"Laroche, Mr. Joseph Philippe Lemercier",SC/Paris 2123,B96 B98,0,1,1,0,0,1.2911107778391453,3,18-35
+687,0,3,"Panula, Mr. Jaako Arnold",3101295,B96 B98,0,1,0,0,1,1.2323700070105024,5,0-18
+727,1,2,"Renouf, Mrs. Peter Henry (Lillian Jefferys)",31027,B96 B98,1,0,0,0,1,0.6520886966228799,3,18-35
+737,0,3,"Ford, Mrs. Edward (Margaret Ann Watson)",W./C. 6608,B96 B98,1,0,0,0,1,1.067407092686262,4,35-50
+743,1,1,"Ryerson, Miss. Susan Parker ""Suzette""",PC 17608,B57 B59 B63 B66,1,0,1,0,0,8.147227227448958,4,18-35
+755,1,2,"Herman, Mrs. Samuel (Jane Laver)",220845,B96 B98,1,0,0,0,1,2.018369775261295,3,35-50
+764,1,1,"Carter, Mrs. William Ernest (Lucile Polk)",113760,B96 B98,1,0,0,0,1,3.726221123559314,3,35-50
+775,1,2,"Hocking, Mrs. Elizabeth (Eliza Needs)",29105,B96 B98,1,0,0,0,1,0.7141923820155353,4,50+
+784,0,3,"Johnston, Mr. Andrew G",W./C. 6607,B96 B98,0,1,0,0,1,0.7281657112288826,3,18-35
+788,0,3,"Rice, Master. George Hugh",382652,B96 B98,0,1,0,1,0,0.904384918530542,5,0-18
+789,1,3,"Dean, Master. Bertram Vere",C.A. 2315,B96 B98,0,1,0,0,1,0.6388916634769407,3,0-18
+793,0,3,"Sage, Miss. Stella Anna",CA. 2343,B96 B98,1,0,0,0,1,2.159655659529586,10,18-35
+803,1,1,"Carter, Master. William Thornton II",113760,B96 B98,0,1,0,0,1,3.726221123559314,3,0-18
+814,0,3,"Andersson, Miss. Ebba Iris Alfrida",347082,B96 B98,1,0,0,0,1,0.9711463803276462,6,0-18
+820,0,3,"Skoog, Master. Karl Thorsten",347088,B96 B98,0,1,0,0,1,0.8663464112275405,5,0-18
+825,0,3,"Panula, Master. Urho Abraham",3101295,B96 B98,0,1,0,0,1,1.2323700070105024,5,0-18
+847,0,3,"Sage, Mr. Douglas Bullen",CA. 2343,B96 B98,0,1,0,0,1,2.159655659529586,10,18-35
+851,0,3,"Andersson, Master. Sigvard Harald Elias",347082,B96 B98,0,1,0,0,1,0.9711463803276462,6,0-18
+859,1,3,"Baclini, Mrs. Solomon (Latifa Qurban)",2666,B96 B98,1,0,1,0,0,0.5980057021986861,3,18-35
+864,0,3,"Sage, Miss. Dorothy Edith ""Dolly""",CA. 2343,B96 B98,1,0,0,0,1,2.159655659529586,10,18-35
+886,0,3,"Rice, Mrs. William (Margaret Norton)",382652,B96 B98,1,0,0,1,0,0.904384918530542,5,35-50
+889,0,3,"Johnston, Miss. Catherine Helen ""Carrie""",W./C. 6607,B96 B98,1,0,0,0,1,0.7281657112288826,3,18-35

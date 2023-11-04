@@ -1,0 +1,1 @@
+Insight 2: The 'Fare_scaled' column shows varying fare values, with a range from 0.598 to 2.159. Some passengers, like '863,' paid significantly higher fares compared to the average fare.
